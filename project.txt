@@ -1,5 +1,4 @@
 GitHub Pull Request Demo
 Version 1.0
 This change was added via a Pull Request.
-Another Line!
-This line was added for some purposes.
+This line was added for code reviewing purposes.
